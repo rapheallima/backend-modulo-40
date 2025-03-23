@@ -1,4 +1,4 @@
-# Modulo_40 - Projeto Spring Boot com JPA e PostgreSQL
+# Módulo_40 - Projeto Spring Boot com JPA e PostgreSQL
 
 Este é um projeto desenvolvido com **Spring Boot**, **JPA**, e **PostgreSQL**. O objetivo principal é gerenciar produtos em uma aplicação simples, com a criação, armazenamento e consulta de dados.
 
